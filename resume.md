@@ -3,7 +3,7 @@
 **Contact Information**  
 - **Phone:** (914)-619-3612  
 - **Email:** [jyothism@buffalo.edu](mailto:jyothism@buffalo.edu)
-- **LinkedIn:** [linkedin.com/in/jyothismaria](linkedin.com/in/jyothismaria)  
+- **LinkedIn:** [linkedin.com/in/jyothismaria](https://www.linkedin.com/in/jyothismaria/)
 
 
 ---
