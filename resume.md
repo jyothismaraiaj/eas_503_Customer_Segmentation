@@ -52,9 +52,9 @@
 
 ## Technical Skills
 
-- **Programming Languages:** Python, R  
-- **Tools & Libraries:** SciKit Learn, Git  
-- **Core Competencies:** Data Modeling, Machine Learning, HPC Systems  
+- **Programming Languages:** Python, R, Scala, C  
+- **Tools & Libraries:** SciKit Learn, Git, Tensorflow, Pandas
+- **Core Competencies:** Data Modeling, Machine Learning, Data Analysis
 
 ---
 
