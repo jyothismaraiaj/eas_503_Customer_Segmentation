@@ -43,7 +43,7 @@
 ## Engineering Project Experience
 
 **University at Buffalo**  
-**Project:** IR based ChatbotPassword Strength Classifier
+**Project:** IR based ChatbotPassword Strength Classifier<br>
 Objective: Creating chatbot that handles user conversation for chitchat-based conversation and topical
 - Collected data from Reddit using the Reddit REST API.
 -	Processed data through tokenization, stemming, and lemmatization to develop an inverted index with SOLR.
