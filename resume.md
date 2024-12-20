@@ -65,7 +65,6 @@
   - Planned and conducted team meetings.  
   - Managed email correspondence for the Lockdown Competition.  
   - Coordinated logistics, scheduling, and promotion to ensure smooth event execution.  
-- **White Team (2022):**
 
 ---
 
