@@ -19,7 +19,9 @@
   - Introduction to Pattern Recognition  
   - Processing of Strings and Sequences  
   - Introduction to Data Mining  
-  - Software Quality and Practice  
+  - Software Quality and Practice
+  - Modern Networking Concepts
+  - Data Structures and Algorithm 
 
 ---
 
@@ -41,12 +43,12 @@
 ## Engineering Project Experience
 
 **University at Buffalo**  
-**Project:** Password Strength Classifier  
-- Developed a password strength classification system using decision tree algorithms.  
-- Collected data from Reddit using the Reddit REST API.  
-- Cleaned and merged datasets, handling missing values and outliers.  
-- Engineered features for effective classification.  
-- Implemented a decision tree classifier, improving accuracy from 64.4% to 99.0% after feature engineering.
+**Project:** IR based ChatbotPassword Strength Classifier
+Objective: Creating chatbot that handles user conversation for chitchat-based conversation and topical
+- Collected data from Reddit using the Reddit REST API.
+-	Processed data through tokenization, stemming, and lemmatization to develop an inverted index with SOLR.
+-	Designed a retrieval pipeline utilizing the OKAPI BM25 model and Vector Space Model (VSM).
+-	Composed comprehensive technical reports and visualized data trends effectively.
 
 ---
 
