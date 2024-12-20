@@ -3,7 +3,7 @@
 **Contact Information**  
 - **Phone:** (914)-619-3612  
 - **Email:** [jyothism@buffalo.edu](mailto:jyothism@buffalo.edu)
-- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/jyothismaria)  
+- **LinkedIn:** [linkedin.com/in/jyothismaria](linkedin.com/in/jyothismaria)  
 
 
 ---
@@ -34,7 +34,7 @@
 - Visualized HPC node usage and daily job queues using time series plots.  
 - Developed an algorithm to generate an availability matrix for unused nodes.  
 - Created panel plots to illustrate available nodes based on resource utilization.  
-- Optimized the algorithm runtime from nearly 40 minutes to 5 seconds.
+- Optimized the algorithm runtime from nearly 40 minutes to 5 seconds by implementing computationally intensive components in C++ using Rcpp, improving performance and scalability.
 
 ---
 
