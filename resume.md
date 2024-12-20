@@ -1,85 +1,83 @@
-# Resume
+# Jyothismaria Joseph
 
-## Your Name
+**Contact Information**  
+- **Phone:** (914)-619-3612  
+- **Email:** [jyothism@buffalo.edu](mailto:jyothism@buffalo.edu)
+- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/jyothismaria)  
 
-**Contact Information**
-- **Email:** your.email@example.com  
-- **Phone:** +1 123-456-7890  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-
----
-
-## Professional Summary
-
-Results-oriented Data Scientist with over 5 years of experience leveraging machine learning, statistical analysis, and data visualization to solve complex business problems. Proven ability to deliver actionable insights and build scalable AI solutions, driving measurable impact.
-
----
-
-## Skills
-
-- **Programming:** Python (Pandas, NumPy, Scikit-learn), R, SQL
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis
-- **Big Data Tools:** Spark, Hadoop
-- **Cloud Platforms:** AWS, GCP, Azure
-- **Version Control:** Git, GitHub
-
----
-
-## Professional Experience
-
-### Data Scientist  
-**XYZ Corp, New York, NY**  
-*Jan 2020 – Present*  
-- Developed predictive models that increased customer retention by 20% using machine learning techniques.
-- Designed and implemented ETL pipelines to process and analyze 10TB+ of data, improving data accessibility.
-- Automated reporting dashboards in Tableau, reducing manual reporting time by 30%.
-- Conducted A/B testing and statistical analysis, contributing to a 15% increase in conversion rates.
-
-### Data Analyst  
-**ABC Inc, San Francisco, CA**  
-*Jun 2017 – Dec 2019*  
-- Analyzed large datasets to identify trends, leading to a 10% reduction in operational costs.
-- Built interactive dashboards to visualize key performance metrics, improving decision-making processes.
-- Collaborated with cross-functional teams to define KPIs and standardize data collection processes.
 
 ---
 
 ## Education
 
-**Master of Science in Data Science**  
-University of Example, City, State  
-*Graduated: May 2017*  
-
-**Bachelor of Science in Computer Science**  
-University of Example, City, State  
-*Graduated: May 2015*
-
----
-
-## Projects
-
-### Customer Churn Prediction
-- Built a machine learning model to predict customer churn with 90% accuracy, enabling targeted marketing campaigns.
-- Deployed the model as a REST API using Flask and Docker.
-
-### Real-time Sentiment Analysis
-- Implemented a sentiment analysis pipeline for social media data, processing 1M+ tweets daily.
-- Utilized NLP techniques and visualized results in an interactive Streamlit app.
+**University at Buffalo – SUNY**, Buffalo, NY  
+- **MS Engineering Science – Data Science** *(Expected December 2025)*  
+- **BS Computer Science** *(September 2020 – June 2024)*  
+- **GPA:** 3.73  
+- **Relevant Coursework:**  
+  - Data Intensive Computing  
+  - Introduction to Pattern Recognition  
+  - Processing of Strings and Sequences  
+  - Introduction to Data Mining  
+  - Software Quality and Practice  
 
 ---
 
-## Certifications
+## Internship Experience
 
-- **Certified Data Scientist** – Data Science Council of America (DASCA)
-- **AWS Certified Machine Learning – Specialty**
-- **Tableau Desktop Specialist Certification**
+**UB Center of Computational Research**, Buffalo, NY  
+**Summer Research Intern** *(May 2023 – August 2023)*  
+**Project:** Nodes Availability Analysis for Application Kernels Execution  
+- Characterized unused nodes for running application kernels to manage node performance.  
+- Gained proficiency in HPC systems through molecular dynamics simulations using GROMACS.  
+- Conducted performance analysis (parallel scaling and convergence) of pi estimation using Open MPI.  
+- Visualized HPC node usage and daily job queues using time series plots.  
+- Developed an algorithm to generate an availability matrix for unused nodes.  
+- Created panel plots to illustrate available nodes based on resource utilization.  
+- Optimized the algorithm runtime from nearly 40 minutes to 5 seconds.
 
 ---
 
-## Interests
+## Engineering Project Experience
 
-- Artificial Intelligence and Ethics
-- Open Source Contributions
-- Data Science Blogging
+**University at Buffalo**  
+**Project:** Password Strength Classifier  
+- Developed a password strength classification system using decision tree algorithms.  
+- Collected data from Reddit using the Reddit REST API.  
+- Cleaned and merged datasets, handling missing values and outliers.  
+- Engineered features for effective classification.  
+- Implemented a decision tree classifier, improving accuracy from 64.4% to 99.0% after feature engineering.
+
+---
+
+## Technical Skills
+
+- **Programming Languages:** Python, R  
+- **Tools & Libraries:** SciKit Learn, Git  
+- **Core Competencies:** Data Modeling, Machine Learning, HPC Systems  
+
+---
+
+## Leadership
+
+**University at Buffalo Network Defense**  
+- **Gold Team Lead (2023):**  
+  - Planned and conducted team meetings.  
+  - Managed email correspondence for the Lockdown Competition.  
+  - Coordinated logistics, scheduling, and promotion to ensure smooth event execution.  
+- **White Team (2022):**
+
+---
+
+## Accomplishments
+
+- Dean’s List  
+
+---
+
+## Co-Curricular Work Experience
+
+**Teaching Assistant: Software Quality in Practice** *(January 2024 – May 2024)*  
+- Facilitated biweekly lab sessions for 27 students.  
+- Provided constructive feedback on submitted work.
+
